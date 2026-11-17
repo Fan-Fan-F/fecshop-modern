@@ -1,0 +1,15 @@
+.idea
+/composer.lock
+/vendor/
+.php_cs.cache
+.phpunit.result.cache
+*.log
+runtime/
+web/assets/
+assets/
+tests/web/assets/
+tests/_output/
+*.sqlite
+*.db
+.env
+.env.local
